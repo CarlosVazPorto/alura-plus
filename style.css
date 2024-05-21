@@ -145,3 +145,48 @@ body {
     font-size: 0.8em;
 }
 
+@media screen and (max-width: 768px) {
+    .container {
+        display: block;
+        background-image: none;
+        margin-top: 15em;
+    }
+
+    .container__imagem {
+        width: 50vw;
+    }
+
+    .container__caixa {
+        margin: 2em 2em;
+    }
+
+    .secundario {
+        margin: 1em;
+        text-align: center;
+    }
+
+    .secundario__imagem {
+        width: 50vw;
+    }
+
+    .dispositivos__titulo{
+        margin: 0 1em;
+    }
+
+    .dispositivos__lista {
+        display: block;
+    }
+
+    .rodape__logo {
+        margin-bottom: 1em;
+    }
+
+    .rodape__lista {
+        display: block;
+    }
+
+    .lista__link {
+        padding-bottom: 1em;
+    }
+
+}
