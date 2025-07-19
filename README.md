@@ -6,33 +6,21 @@ Código do projeto de construção da página da Alura-Plus, do curso de HTML e 
 
 ## 🔨 Funcionalidades do projeto
 
-O App lista produtos com imagem, título, descrição e valor. Também, é possível cadastrar produtos. Todo armazenamento é mantido em memória do App, portanto, ao finalizar o App as informações são perdidas.
-
-![](img/amostra.gif)
+Web page com scroll down, usando algumas das técnicas do HTML e do CSS para efeitos visuais.
+Apresenta interatividade ao se clicar, levando para a página da Alura.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
 As técnicas e tecnologias utilizadas pra isso são:
 
-- `CardView`: container para apresentar cada produto na lista de produtos
-- `RecyclerView`: listagem das produtos
-- `ConstraintLayout`: ViewGroup padrão para implementar todos os layouts
-- `ImageView`: View para apresentar imagens no App
-- `Coil`: carregar imagens via requisição HTTP
-- `View Binding`: busca de views do layout de forma segura
-- `AlertDialog`: Exibição de formulário para carregar novas imagens do produto
-- `Fontes personalizadas`: configuração para adicionar novas fontes
-- `Extension functions`: adicionar comportamentos em outras classes para reutilizá-los
-- `Personalização de tema`: modificação de cores para o tema do App
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white") : construção do conteúdo da página
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white") : estilização da página e responsividade
+- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) : fonte do projeto UI / UX
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) : controle de versão
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) : repositório do código
+- ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) : hospedagem do site.
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) : IDE
 
-## 🛠️ Abrir e rodar o projeto
+## 🛠️ Visitar a web page do projeto
 
-Você pode [acessar o resultado do projeto em: ](carlosvazporto.github.io/alura-plus/) 
-
-
-
-
-## 📚 Mais informações do curso
-
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](https://cursos.alura.com.br/course/android-kotlin-personalize-app) que desenvolve o projeto desde o começo!
-
+Você pode acessar o resultado do projeto clicando [aqui](carlosvazporto.github.io/alura-plus/).
