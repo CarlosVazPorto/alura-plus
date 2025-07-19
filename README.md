@@ -1,4 +1,4 @@
-![Banner da Alura-Plus]<img width="2250" height="1125" alt="Front-end-Alura-Plus" src="https://github.com/user-attachments/assets/66cba68e-9995-4cbe-9ffe-f6dc10756829" />
+<img width="2250" height="1125" alt="Front-end-Alura-Plus" src="https://github.com/user-attachments/assets/66cba68e-9995-4cbe-9ffe-f6dc10756829" />
 
 # Alura-Plus
 
@@ -23,4 +23,4 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 🛠️ Visitar a web page do projeto
 
-Você pode acessar o resultado do projeto clicando [aqui](carlosvazporto.github.io/alura-plus/).
+Você pode acessar o resultado do projeto clicando [aqui](https://carlosvazporto.github.io/alura-plus/).
