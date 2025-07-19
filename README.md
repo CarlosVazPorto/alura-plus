@@ -1,8 +1,4 @@
-
-<img width="2250" height="1125" alt="Front-end-Alura-Plus" src="https://github.com/user-attachments/assets/66cba68e-9995-4cbe-9ffe-f6dc10756829" />
-
-
-![Banner da Alura-Plus](https://raw.githubusercontent.com/andreocunha/upload_files_test/main/exemplo-thumb.png)
+![Banner da Alura-Plus]<img width="2250" height="1125" alt="Front-end-Alura-Plus" src="https://github.com/user-attachments/assets/66cba68e-9995-4cbe-9ffe-f6dc10756829" />
 
 # Alura-Plus
 
